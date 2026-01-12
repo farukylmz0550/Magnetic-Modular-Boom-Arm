@@ -39,6 +39,8 @@
 - **Infill:** 50%  
 - **Layer Height:** 0.1 mm
 
+##These printing settings are purely theoretical!
+
 ---
 
 ## Contact
