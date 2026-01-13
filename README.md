@@ -71,9 +71,9 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 
 ---
 
-# Manyetik Modüler Boom Arm
+# Manyetik Modüler Boom Kolu
 
-> Çok yönlü, dayanıklı ve modüler bir boom arm sistemi; hızlı aksesuar değişimi için manyetik bağlantılar — içerik üreticileri ve maker'lar için mükemmel.
+> Çok yönlü, dayanıklı ve modüler bir boom kolu sistemi; hızlı aksesuar değişimi için manyetik bağlantılar — içerik üreticileri ve maker'lar için mükemmel.
 
 ---
 
