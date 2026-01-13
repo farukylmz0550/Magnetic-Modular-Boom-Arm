@@ -30,7 +30,7 @@
   
 - III. [502 Glue](https://www.ebay.com/sch/i.html?_nkw=502+glue&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313) x1
 
--  IV. [3D printed part](https://github.com/farukylmz0550/Magnetic-Modular-Boom-Arm/releases/tag/Release_New_Version)
+-  IV. [3D printed part](https://github.com/farukylmz0550/Magnetic-Modular-Boom-Arm/releases/tag/Release_New_Version) x1
 
 - V. [1,5m USB-A extension cable](https://www.ebay.com/itm/235648538790?_skw=1%2C5m+USB-A+extension+cable&itmmeta=01KEV82YHA6VVEWR9HS41BVCB1&hash=item36ddbf58a6%3Ag%3Aa9QAAOSwgodmj8tI&itmprp=enc%3AAQALAAAA8O7PUuNWmJ%2B%2BUShgI9tQz%2FrYprOZOBUO0a7eyEpZKBNdpmkffmzXwi81ostelMbR5AmQUE0DH7qfymEn9sfWbeeoVY3AH9rl9W%2BKIAv2ViF3%2BNwEwqAtbu7%2Bc6K%2FgxtYgl8OTcNvQLsxLzlW6hXBihNuoH15klv0eW6DVBagOt%2BB7ghKQ706BOcqu%2FQ8zgVpFnyN%2BWZmtXs9k%2FFnX5f6GqRQiZelnFW1gEPKby4bKUq9yW8ECeaZCVjGd9tW72kp72Di66OgJFXICqtb6yAPImqYVz5NRyIbjm4S5gPc%2FTpp61J%2BkpfDqmZhCMbbjHUVDg%3D%3D%7Ctkp%3ABk9SR-boi-j2Zg&keyword=1%2C5m+USB-A+extension+cable&sacat=0&relatedSearch=true) x1
 
@@ -105,9 +105,9 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
   
 - III. **[502 Japon Yapıştırıcısı](https://www.trendyol.com/epilons/evobond-502-japon-yapistiricisi-super-glue-20-gr-p-996670277)** x1
 
--  IV. [3D baskı parça](https://github.com/farukylmz0550/Magnetic-Modular-Boom-Arm/releases/tag/Release_New_Version)
+-  IV. [3D baskı parça](https://github.com/farukylmz0550/Magnetic-Modular-Boom-Arm/releases/tag/Release_New_Version) x1
 
-- V. [1,5m usb-a uzatma kablosu](https://www.trendyol.com/hadron/1-5-metre-usb-uzatma-kablosu-uzatici-disi-erkek-p-33201258)
+- V. [1,5m usb-a uzatma kablosu](https://www.trendyol.com/hadron/1-5-metre-usb-uzatma-kablosu-uzatici-disi-erkek-p-33201258) x1
 
 ---
 
