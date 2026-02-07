@@ -99,7 +99,7 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 
 ## Malzeme Listesi
 
-- I. [MagSafe Şarj Cihazı](https://www.apple.com/tr/shop/product/mgd74tu/a/magsafe-şarj-aygıtı-1-m?fnode=67c24c5e059c830eeda789747ad0022c11e071ac74fc2261e8fabcb4e9bd64741b9d357b82af0ad9354fee10606394ec2c82208b841124937b3eef033267883d29fc182ed648b862ccbf7689b3706a1c8a0) x 1
+- I. [MagSafe Şarj Cihazı](https://www.apple.com/tr/shop/product/mgd74tu/a/magsafe-şarj-aygıtı-1-m?fnode=67c24c5e059c830eeda789747ad0022c11e071ac74fc2261e8fabcb4e9bd64741b9d357b82af0ad9354fee10606394ec2c82208b841124937b3eef033267883d29fc182ed648b862ccbf7689b3706a1c8a0) veya muadili x 1
 
 - II. [Magsafe Halkası](https://www.trendyol.com/livx/power-metal-magsafe-halka-yuzuk-ring-iphone-8-ve-ustu-model-ile-uyumlu-gumus-lvrng-p-444660059) X1
   
