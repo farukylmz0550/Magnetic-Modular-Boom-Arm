@@ -38,9 +38,10 @@
 
 ## Printing Guidelines
 
-- **Material:** PETG  
-- **Infill:** 50%  
-- **Layer Height:** 0.1 mm
+- **Material:** PETG
+- **Layer Height:** 0.2 mm  
+- **Infill:** 50% Gyroid
+- **Wall Count:** 6
 
 ## These printing settings are purely theoretical!
 
@@ -113,9 +114,10 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 
 ## Baskı Kılavuzu
 
-- **Malzeme:** PETG  
-- **Dolgu:** 50%  
-- **Katman Yüksekliği:** 0.1 mm
+- **Malzeme:** PETG
+- **Katman Yüksekliği:** 0.2 mm  
+- **Doluluk Oranı:** 50% Gyroid
+- **Duvar Sayısı:** 6
 
 ## Bu baskı ayarları tamamen teoriktir!
 
