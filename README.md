@@ -43,7 +43,7 @@
 - **Infill:** 50% Gyroid
 - **Wall Count:** 6
 
-> [!CAUTION]
+> [!WARNING]
 > These printing settings are purely theoretical!
 ---
 
