@@ -57,7 +57,7 @@ For questions, collaboration, or feedback, feel free to reach out:
 
 ## Credits
 
-Thanks to [CaptainBoosted](https://www.printables.com/@CaptainBoost_2671248) for the **3/8 to 1/4 Adaptor"** model, which is used as a supplementary accessory in this project.  
+Thanks to [CaptainBoosted](https://www.printables.com/@CaptainBoost_2671248) for the **3/8 to 1/4 Adaptor"** model, which is used as a supplementary model in this project.  
 Original model: [3/8 to 1/4 Adaptor](https://www.printables.com/model/1252820-38-to-14-adaptor/files)
 
 ---
@@ -133,7 +133,7 @@ Sorular, işbirliği veya geri bildirim için çekinmeden iletişime geçin:
 
 ## Krediler
 
-**3/8 to 1/4 Adaptor** modelini bu projede yardımcı aksesuar olarak kullandığı için [CaptainBoosted](https://www.printables.com/@CaptainBoost_2671248)'a teşekkürler.  
+**3/8 to 1/4 Adaptor** modelini bu projede yardımcı model olarak kullandığım için [CaptainBoosted](https://www.printables.com/@CaptainBoost_2671248)'a teşekkürler.  
 Orijinal model: [3/8 to 1/4 Adaptor](https://www.printables.com/model/1252820-38-to-14-adaptor/files)
 
 ---
